@@ -1,0 +1,26 @@
+[
+    {
+        "name": "internent",
+        "due": "2026-3-9"
+    },
+    {
+        "name": "electricity",
+        "due": "2026-3-9"
+    },
+    {
+        "name": "school",
+        "due": "2026-03-09"
+    },
+    {
+        "name": "phone",
+        "due": "2026-03-10"
+    },
+    {
+        "name": "water",
+        "due": "2026-03-10"
+    },
+    {
+        "name": "car emi",
+        "due": "2026-03-10"
+    }
+]
