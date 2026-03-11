@@ -1,30 +1,14 @@
 [
     {
-        "name": "internent",
-        "due": "2026-3-9"
-    },
-    {
-        "name": "electricity",
-        "due": "2026-3-9"
-    },
-    {
-        "name": "school",
-        "due": "2026-03-09"
-    },
-    {
-        "name": "phone",
-        "due": "2026-03-10"
+        "name": "power",
+        "due": "2026-03-11",
+        "remind_before": 1,
+        "reminded": false
     },
     {
         "name": "water",
-        "due": "2026-03-10"
-    },
-    {
-        "name": "car emi",
-        "due": "2026-03-10"
-    },
-    {
-        "name": "krishna",
-        "due": "2026-03-10"
+        "due": "2026-03-12",
+        "remind_before": 1,
+        "reminded": true
     }
 ]
